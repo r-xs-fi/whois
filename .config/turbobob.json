@@ -1,0 +1,12 @@
+{
+	"for_description_of_this_file_see": "https://github.com/function61/turbobob",
+	"version_major": 1,
+	"project_name": "whois",
+	"meta": {
+		"description": "Container image for whois - intelligent WHOIS client",
+		"website": "https://github.com/rfc1036/whois"
+	},
+	"docker_images": [
+		{ "image": "ghcr.io/r-xs-fi/whois", "platforms": ["linux/amd64", "linux/arm64", "linux/arm/v7", "linux/riscv64"], "tag_latest": true }
+	]
+}
