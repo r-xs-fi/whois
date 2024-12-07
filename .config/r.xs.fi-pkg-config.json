@@ -1,4 +1,5 @@
 {
+	"supply_chain_descriptor": "alpine-package:whois",
 	"usage_examples": [
 		{
 			"title": "Run a WHOIS query",
